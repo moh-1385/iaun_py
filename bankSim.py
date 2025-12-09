@@ -10,7 +10,7 @@ for i in range(num):
     accounts.append([name, balance])  
 
 print("\nAccounts have been created successfully!\n")    
-
+   
 
 while True:
     print("\n===== BANKING MENU =====")
